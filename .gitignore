@@ -1,0 +1,11 @@
+Transition/build/
+Transition/Library
+Transition/obj
+Transition/Packages
+Transition/Presets
+Transition/Temp
+Transition/UnityPackageManager
+
+*.csproj
+*.userprefs
+*.sln
